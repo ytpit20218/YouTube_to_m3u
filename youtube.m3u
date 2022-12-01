@@ -1,1 +1,21 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://hqth.me/kiptv             #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ytimg.com/vi/MsSrIlOi81o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHH-dlTD3TmvD3wlEgyJW0MvjAgA" tvg-id="", Gaming Music 24/7 LIVESTREAM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669925051/ei/W7SIY_KWE9ykir4PkdSQ-A0/ip/20.45.40.140/id/MsSrIlOi81o.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSP-Y4amYKHXVO63TtKMCoS5Vl_SSGCbTEA51LaQjsLMCIA_amUH0wgur0SNFSA5SFmfdABW11JVL2cScpCdQWDga/file/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png" tvg-id="", NHK World
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669925051/ei/W7SIY56JMY-elu8PuMObuAk/ip/20.45.40.140/id/f0lYkdA-Gtw.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANjj47yMLTrFeuyyzr8fcveEdKrOK0wzvafOkKzqZxdSAiEAoQKpF0BJbMFTLsql2C_VLHIW6F2VuxrcKmlsDSSWdw8%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="" tvg-id="", Tokyo Shinjuku Live Cam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669925052/ei/XLSIY-2qEqmX_tcP7P-FgAk/ip/20.45.40.140/id/RQA5RcIZlAM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM1x8KRzFSSpy2WBBpJ9eerA6-ui-ODzq3YjV5Q4BwL4AiAv7n4Xw3T4fgRYB1mmXyVuFm0CQOVzuUjXmsbtO8gkkg%3D%3D/file/index.m3u8
