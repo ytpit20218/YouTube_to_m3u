@@ -12,19 +12,19 @@
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/MsSrIlOi81o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHH-dlTD3TmvD3wlEgyJW0MvjAgA" tvg-id="", Gaming Music 24/7 LIVESTREAM
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357073/ei/8VTMY42UD4WlkgbXzIPABg/ip/13.88.61.176/id/MsSrIlOi81o.3/source/yt_live_broadcast/requiressl/yes/tx/24435507/txs/24435507%2C24435508%2C24435509/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOuZw1cjtTC3zsqH_TrEeEBoA62vAtZOzol6LfqcG8MNAiEAiScMuYmVpYJSLUmKmPrMu6Xh1EGFgCAjWUKUdJ1sBZI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png" tvg-id="", NHK World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674346528/ei/wCvMY6SaLMPUhwbP6JTACQ/ip/172.177.114.128/id/f0lYkdA-Gtw.4~45371336/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFO-uYFw9BJQ6Wo8hF9h7DrqsFEPItLslcFVycmN87UgCIDJVkbpVuQRhWyx6ctkgEdjhVJPmxzSYTHk0ov0gw81G/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357073/ei/8VTMY8edMOiCsfIP16uA8Ag/ip/13.88.61.176/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCDSNivc1uUBpQGXauMyEan-H9Sm_1mEiVSbiF1utvP8CIBeZJc_8KQ8v_RJF1MZLTS106ckbP7YgCy-N4S-dLZYC/file/index.m3u8
 
 #EXTINF:-1 group-title="Camera Japan" tvg-logo="" tvg-id="", Tokyo Shinjuku Live Cam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674346529/ei/wSvMY77kD_PhgwOKr66gCw/ip/172.177.114.128/id/RQA5RcIZlAM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNOXqsTWc0OmhUkq6vVAsoid7Rem4g0hhfeXssf5d3mgCIQDnJAWIbg2NTd4LbkHgKo_vk6PwJY9bwNwZPs11pUmYlA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357074/ei/8lTMY-CzFIPIkgbvvrHACw/ip/13.88.61.176/id/RQA5RcIZlAM.4/source/yt_live_broadcast/requiressl/yes/tx/24438934/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPsoy2gpp3S94f_9h-ExejqtFa4bf3siJiYgy9VWGd3lAiEAwqsnmDziA7RkRbMw-DDW2Uw8pxN6QI1TYuNThgW4Ik0%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://tinyurl.com/mtswnjdh" tvg-id="", lofi hip hop radio - beats to relax/study to
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357075/ei/8lTMY5LPNdSKkgaq9Yk4/ip/13.88.61.176/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/tx/24276396/txs/24276394%2C24276395%2C24276396%2C24276397%2C24276398%2C24276399/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVrWoJnYC9abw5Lw57OqQN70cNqjUjSdzSXMebIyeOHkCIQD6NkgJq8dEd-l-zhVs3h7OsnJOxxOzj5kC478jz2IdpQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://tinyurl.com/4mhd5bb4" tvg-id="", lofi hip hop radio - beats to sleep/chill to
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357075/ei/81TMY9fxF5rXkgby7aaQCw/ip/13.88.61.176/id/rUxyKA_-grg.3/source/yt_live_broadcast/requiressl/yes/tx/24276396/txs/24276394%2C24276395%2C24276396%2C24276397%2C24276398%2C24276399/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKKBpEt6fjQhCq9ysgAypLMuR3P0NE2yiupIK5hmwAEqAiEAoLyKdZPxfo67nRrBRkNL4wOQDfU7fUdN4pwo0bEVF3s%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam Camera" tvg-logo="https://tinyurl.com/3x6eyaj8" tvg-id="", Camera góc nhìn Cầu Trần Thị Lý
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
@@ -33,16 +33,16 @@ https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://tinyurl.com/5auf264j" tvg-id="", Ca Nhạc Trữ Tình Bolero 2022
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357084/ei/_FTMY--aC4mjkgb97ZqoCw/ip/13.88.61.176/id/OyyO_-IpskU.1/source/yt_live_broadcast/requiressl/yes/tx/24438928/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgN9Ej9VWmvGgxfQ2kw80eaZl4Bfwx9dbSvcbaDpXcWzkCIQCwmS38c2zPhNpad49mtzatm2f8S8McMLkke4RyxUzSiQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/JTjoH1HNkbs/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLB5_qWD3KgAOID0WLIbY22J7WZ2ZA" tvg-id="", Epidemic Pop Live Stream 🔴🎉 24/7 Pop Live Radio 🎶
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357084/ei/_FTMY43jKYeZkwbZoIuYDA/ip/13.88.61.176/id/JTjoH1HNkbs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALeNpnwSVXrvU8s30zjcZF7K9lsHlBL7h-wgACAfNZvbAiEAq_36R1VQtHZ3yk8LxWqANB9aubX65576LKPmKR6HpfE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/whACSpi2zQ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb3ekqZsaASr96biPpVdpWvuA7GA" tvg-id="", Epidemic Electronic 24/7 Live Radio ♫🔴 Future Bass, EDM, Dance Music and more!
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357085/ei/_VTMY9iBC4fYkgberbrwBA/ip/13.88.61.176/id/whACSpi2zQ8.3/source/yt_live_broadcast/requiressl/yes/tx/24438948/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQCIVUJ2AYqw7R7C-CcLDeF5yHjFVd9l_QBbA-9sL6UQCIQDlmaZ00oqBdJPzYsHdXr4bjQzOq3fW5grr9zOvbOlFLg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pandemic" tvg-logo="https://i.ytimg.com/vi/O4b-cNfoYfA/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLA876jRZgw_Y4WQLWgjxBOfFib_Gw" tvg-id="", Coronavirus Pandemic: Real Time Dashboard, World Maps, Charts, News
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357085/ei/_VTMY8KwKsa7kwaeu7awAw/ip/13.88.61.176/id/O4b-cNfoYfA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWahJm4H2RFNuUMQe6cqJ2JMdOw9_KkuOZKjRC30kM5ACIQDKpA1eVlITLR3nbTb8YW1AZvwxZmRiCFh-v76Rw7wwRg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English Streamer" tvg-logo="https://i.ytimg.com/vi/_4LpS0sfpvQ/hqdefault_live.…AFwAcABBg==&rs=AOn4CLCDxWoTBLNF0lwW0orZeeXw_O7SWw" tvg-id="", Gawr Gura Ch. hololive-EN Live
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
@@ -51,7 +51,7 @@ https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/Dx5qFachd3A/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLB7C5CUvve8QoRdUa2gMozGvq3k-w" tvg-id="", Relaxing Jazz Piano Radio - Slow Jazz Music
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357087/ei/_1TMY6j9JoalkgbHrYq4Bw/ip/13.88.61.176/id/Dx5qFachd3A.429/source/yt_live_broadcast/requiressl/yes/tx/24276398/txs/24276394%2C24276395%2C24276396%2C24276397%2C24276398%2C24276399/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFxD1MvbmLtF7iGTNyCOlSxK_ELxM4VHj3OhKaQRUkX0CIQDe-CraTe7MnXjS-nhHHtytOKxk7A1sbmq0wj2B10_mxw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://i.ytimg.com/vi/wUdAx6DHb3E/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAOLCbGSM8UuKfRnQ9i72SgWVjojw" tvg-id="", Chú Mèo Máy Doraemon Lồng Tiếng Việt Season 7
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
@@ -63,16 +63,16 @@ https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="Countdown" tvg-logo="https://i.ytimg.com/vi/1lHG57Xof6w/hq720.jpg" tvg-id="", CHRISTMAS 2022 COUNTDOWN LIVE🔴
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357096/ei/CFXMY97dBJPSkgaF4bT4DA/ip/13.88.61.176/id/1lHG57Xof6w.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTh5UeDOGcDvDRNUyWv4dxOh5h56lIfGjFNymI3yixasCIQDDP-j4vqKItzjO0miPfgXs9DXpM3wgNC5kzt8KdqGSMg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Television" tvg-logo="https://i.ytimg.com/vi/21X5lGlDOfg/hq720.jpg" tvg-id="", NASA Live: Official Stream of NASA TV
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357096/ei/CFXMY-DhIoLQkgb-j4aYDA/ip/13.88.61.176/id/21X5lGlDOfg.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSITDS2hXM-yZCw7gBSrtMUJg2H4mY0KacE3tw6sbYP4CIQCpBYAkKKmFzzF36fNngQkoAFcYS6wdEXHuNs0sN4GEMQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pandemic" tvg-logo="https://i.ytimg.com/vi/_10JvXqrCoI/hq720.jpg" tvg-id="", Top 50 YouTube Live Sub Count
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674357097/ei/CVXMY9SECIeQkgbA2ZmYDA/ip/13.88.61.176/id/_10JvXqrCoI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYWwFpclYjojLIV1uu-Z64IptgMkDserSUrqArS8ZEVICIQDrwmNJTs8QwCGnYGAAamEEXU7L_bva966GTDcxsLEc1Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Vietnamese Streamer" tvg-logo="https://i.ytimg.com/vi/IaOIxi3fu58/hqdefault_live.jpg?" tvg-id="", Rikusan Gaming Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674346545/ei/0SvMY87FG8iE8wTnnp3wDw/ip/172.177.114.128/id/r5d4EqGM2sA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIZpyR4pEJd_u3tlYf1VMycbqIQlRWfzcKrQvcxPUsbRAiEAy-qReOGkouj-LuhR7h5DOKkuCGxI_iQ1EEIt89liJOo%3D/file/index.m3u8
+https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="Vietnamese Streamer" tvg-logo="https://i.ytimg.com/vi/ZI4owN5aPLU/hqdefault_live.jpg" tvg-id="", Bomman Gaming Live
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
