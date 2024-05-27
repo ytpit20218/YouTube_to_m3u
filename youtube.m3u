@@ -15,22 +15,22 @@
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="News Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png" tvg-id="", NHK World
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812398/ei/DiZUZraxLrGpkucPxaC28AY/ip/20.49.63.243/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177566/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHeeoJMu2gnfdT-2_nPNdVYdCCkf_4prIJxlup-mSWzkCIQCu-Sn7wfvgMzv23VdHH36RCd48O9BRn4fid6AOrl7RdA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Camera Japan" tvg-logo="https://i.ytimg.com/vi/RQA5RcIZlAM/hqdefault_live.jpg" tvg-id="", Tokyo Shinjuku Live Cam
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812399/ei/DyZUZoncFL2BkucP2-Ct8AY/ip/20.49.63.243/id/6dp-bvQ7RWo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKyvyhIT_mBs6PweX9OqS_Jd65UCy_EnQOHeSsXPSVJIAiByY-k9w2r7lIQ2wphd1OFGKGJOyOQPF2oxNEn0sNllFg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://tinyurl.com/mtswnjdh" tvg-id="", lofi hip hop radio - beats to relax/study to
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812399/ei/DyZUZuXlNbeokucPkYq7mAk/ip/20.49.63.243/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVJOXP8LpYImQL7taMr9LPNN6CUuZPRPLqxoMlUHjU2QCIE5d7YKMEvMbW_VAgH73xg9Ay8dbJLN0M7wKfGHwiDwS/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://tinyurl.com/4mhd5bb4" tvg-id="", lofi hip hop radio - beats to sleep/chill to
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812400/ei/ECZUZp_eBZ-ykucPwduwiAU/ip/20.49.63.243/id/rUxyKA_-grg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177562/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIiVm8RexY1RVaQOEQa5DOje2wS--hi7bC---Z-z07e8CIQClPM4kcwr06UhE9cPXvB-DZ8f0dUzJebDgH8PUR2AyrA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Japan Camera" tvg-logo="https://tinyurl.com/3x6eyaj8" tvg-id="", Hiroshima Peace Memorial Park
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812400/ei/ECZUZtWKNO6zkucPhKAR/ip/20.49.63.243/id/BJqjwc5igXk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbXI9mBdNQXReQSNYX7qRKynLODoJgvtF2Ze57YLunRwCIQDRNPI1-yosBwSkdCR3XhtPBmiFjZIJW3-QfxsEzgxmzw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Japan Camera" tvg-logo="https://i.ytimg.com/vi/qz8F44n5DEw/hqdefault_live.jpg" tvg-id="", 【ライブ配信】夜景がきれい！　あべのハルカス・大阪の夜景/OSAKA NIGHT VEW
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812401/ei/ESZUZumtF4a0kucPvqymqAs/ip/20.49.63.243/id/cyADTB80vsM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_aMwiJQXXE7QIQuipbrPW6NQWOzpFWR_fVgqOlBh5bq5iAEX5xooYNONPw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgW-j96j-3c-VYTA6pU2W8mGnTHT1PaOZIIr_9Qlq1384CIQCWYbBXXliLsAaB1rln9CiSBnLctdHI2yfuekT0NTc-Dg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Vietnamese Streamer" tvg-logo="https://tinyurl.com/4acbec9s" tvg-id="", Mixi Live
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
@@ -39,10 +39,10 @@ https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/JTjoH1HNkbs/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLB5_qWD3KgAOID0WLIbY22J7WZ2ZA" tvg-id="", Epidemic Pop Live Stream 🔴🎉 24/7 Pop Live Radio 🎶
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812402/ei/EiZUZqXjMq6ykucP55aO8A8/ip/20.49.63.243/id/wrEckgZZapI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK6fHiIRaq8hmCRZi8JK_-MSwVsrHYR-i4jJC8hd-s4EAiEAkLv9soYFg6JmgiEBtdlqLG1AIv5t8I7OHLqj9LJydS8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/whACSpi2zQ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb3ekqZsaASr96biPpVdpWvuA7GA" tvg-id="", Epidemic Electronic 24/7 Live Radio ♫🔴 Future Bass, EDM, Dance Music and more!
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812403/ei/EyZUZtCKF8yMkucPoLaQ6AY/ip/20.49.63.243/id/whACSpi2zQ8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALTbDekCHaMtNurW0mKbWNl0jmaBmT753FTSYETYu1_9AiEA-ROMNPGGNghkSvvo-LeuHyBvmBbPpdIPBfXDx3Qyapg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pandemic" tvg-logo="https://i.ytimg.com/vi/O4b-cNfoYfA/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLA876jRZgw_Y4WQLWgjxBOfFib_Gw" tvg-id="", Coronavirus Pandemic: Real Time Dashboard, World Maps, Charts, News
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
@@ -54,7 +54,7 @@ https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ytimg.com/vi/Dx5qFachd3A/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLB7C5CUvve8QoRdUa2gMozGvq3k-w" tvg-id="", Relaxing Jazz Piano Radio - Slow Jazz Music
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812406/ei/FiZUZp_dLJyLkucP3oaJmAY/ip/20.49.63.243/id/Dx5qFachd3A.429/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgN363-UzglST85xuKJurCVgQWuiQFYYIWeKZjlgedUYUCIHd8ObragsbwRFmmutvjsSF8Pex104YI5XcZPC5kdOmt/file/index.m3u8
 
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://i.ytimg.com/vi/wUdAx6DHb3E/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAOLCbGSM8UuKfRnQ9i72SgWVjojw" tvg-id="", Chú Mèo Máy Doraemon Lồng Tiếng Việt Season 7
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
@@ -69,7 +69,7 @@ https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="Television" tvg-logo="https://i.ytimg.com/vi/21X5lGlDOfg/hq720.jpg" tvg-id="", NASA Live: Official Stream of NASA TV
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812410/ei/GiZUZozZLvOGkucPp-y1mAo/ip/20.49.63.243/id/21X5lGlDOfg.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxlStKj8v_FIpamH3FX41FSuq1AKM3ssXrP-wpQcZr1uaydUJ91YrRdH3Mg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPDAnfdxiVevMLEKnSeF1sNV8JusCSohfxfRIG3n-YV4AiBMJ-Lp1PJUtvLTt1kirRtJgUnQoa-8wL6YPef8vgM7ZQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pandemic" tvg-logo="https://i.ytimg.com/vi/_10JvXqrCoI/hq720.jpg" tvg-id="", Top 50 YouTube Live Sub Count
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
@@ -87,7 +87,7 @@ https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="China Camera" tvg-logo="https://i.ytimg.com/vi/z_fY1pj1VBw/hq720_live.jpg" tvg-id="", Camera trực tiếp Đài Bắc
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716812414/ei/HiZUZozSDpmJkucPuJeFmAY/ip/20.49.63.243/id/z_fY1pj1VBw.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJiR28Pfe1f62VTkqbojxhE4BlgRi-sD-wB6YI6Por96AiEAqDN8d7xOQq2pp6zsW530X52iZ7etEByeuKydWro4k5I%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Vietnamese Streamer" tvg-logo="https://i.ytimg.com/vi/t8ow6Hywoms/hqdefault.jpg" tvg-id="", Adu anh sengg
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
