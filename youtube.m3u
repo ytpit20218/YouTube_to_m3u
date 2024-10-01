@@ -15,7 +15,7 @@
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
 
 #EXTINF:-1 group-title="News Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png" tvg-id="", NHK World
-https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727774936/ei/eGz7ZpLsLOyQsfIPm9jmkQs/ip/20.172.5.37/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxSWY2zoB18jj0DEm5EhTVC5WnkPZ_xwlaeFEAnMXhscGoPwtsl8Vf1bRGvM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN9fpIvnyyaMTf3Jiat9tEppoc9-wXwnQPNRKXzdTXmkAiEAyVLVWdhyT_lnyem099oYCZF3-_OTYjJYoPN1sRpzxK4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Camera Japan" tvg-logo="https://i.ytimg.com/vi/RQA5RcIZlAM/hqdefault_live.jpg" tvg-id="", Tokyo Shinjuku Live Cam
 https://github.com/ytpit20218/YouTube_to_m3u/blob/main/assets/error.mp4?raw=true
